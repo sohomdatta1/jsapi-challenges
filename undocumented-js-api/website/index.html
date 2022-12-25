@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html><head>
+    <meta charset="UTF-8">
+    <title>HTML Tester</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="./style.css" rel="stylesheet">
+    <meta http-equiv="Content-Security-Policy" content="script-src 'self' cdnjs.cloudflare.com; object-src 'none'; frame-src 'none'; style-src 'self' fonts.googleapis.com *.jsapi.tech;">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400;1,500&display=swap" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/dompurify/2.3.0/purify.min.js" integrity="sha512-FJzrdtFBVzaaehq9mzbhljqwJ7+jE0GyTa8UBxZdMsMUjflR25f5lJSGD0lmQPHnhQfnctG0B1TNQsObwyJUzA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  </head>
+  <body>
+    <div id="wrapper">
+      <header id="header-section">
+      <h1>HTML Notes</h1>
+      <h2>Test your latest HTML based creations and save them to show to your friends later.</h2>
+      </header>
+      <form id="note" method="post" action="/html_note">
+        <div id="note-text-area-wrapper"><textarea id="note-text-area" name="note"></textarea></div>
+        <div id="submit-wrapper"><button type="submit" id="note-submit">Save and render</button><button id="note-go-back">Get last render</button></div>
+        <!-- // TODO:(sohom) Implement these before the next update load data from print.jsapi.live -->
+        <!-- <div id="print-wrapper"><button type="submit" id="note-print-preview">Preview Print</button><button id="note-print">Print</button></div> -->
+      </form>
+      <div id="output"></div>
+      <footer id="ad">We are also working on a experimental iframe-based JS API. Feel free check it out and report any issues you face.</footer>
+    </div>
+    <script src="./script.js">
+    </script>
+  </body></html>
