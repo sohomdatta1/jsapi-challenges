@@ -11,4 +11,4 @@ Other writeups/solution repositories:
 - https://github.com/Walid-Berrouk/NiteCTF_2k22_Write-Ups/tree/master/web/Undocumented_js-api
 - https://crt.sh/?q=jsapi.tech (List of all solutions)
 
-> *NOTE*: niteCTF servers are offline, however, I have no intention of taking down the two challenge websites (https://challenge.jsapi.tech and https://chall1.jsapi.tech) or the related DNS entries. Feel free to use these domains if you are specifically intrested in following along with the writeups or solving the challenge locally.
+> *NOTE*: niteCTF servers are offline, however, I have no intention of taking down the two challenge websites (https://challenge.jsapi.tech and https://chall1.jsapi.tech) or the related DNS entries. Feel free to use these domains if you are specifically intrested in following along with the writeups or solving the challenge locally. That being said, I'm not paying to renew these domains, so don't expect them to be around in niteCTF 2023++.
