@@ -7,6 +7,7 @@ I'll be writing a official writeup for these soon(TM).
 Other writeups/solution repositories:
 - https://ctf.zeyu2001.com/2022/nitectf-2022 (Zeyu2001)
 - https://github.com/CyberTaskForce-Zero/niteCTF-2022-Undocumented-js-api (CyberTaskForce-Zero)
+- https://squ1rrel.dev/tag/nitectf/ (Sq1rrel/nisala)
 - https://github.com/Walid-Berrouk/NiteCTF_2k22_Write-Ups/tree/master/web/Undocumented_js-api
 - https://crt.sh/?q=jsapi.tech (List of all solutions)
 
