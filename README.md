@@ -4,7 +4,7 @@ The JSAPI challenges are a series of challenges related to web security that I w
 
 ## niteCTF 2023
 
-I intend to write two more challenges for niteCTF 2023 centered around cross-site leaks.
+I intend to write one more challenges for niteCTF 2023 centered around cross-site leaks.
 
 ## niteCTF 2022
 
