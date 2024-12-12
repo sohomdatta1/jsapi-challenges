@@ -2,9 +2,9 @@
 
 The JSAPI challenges are a series of challenges related to web security that I write for niteCTF (hosted by Cryptonite, my (now former) college's CTF team).
 
-## niteCTF 2023
+## niteCTF 2024
 
-I intend to write one more challenges for niteCTF 2023 centered around cross-site leaks.
+I intend to write one more challenge for niteCTF 2024 centered around cross-site leaks.
 
 ## niteCTF 2022
 
